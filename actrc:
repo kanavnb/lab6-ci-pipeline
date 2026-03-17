@@ -1,7 +1,0 @@
-# .actrc
-
-# Use medium image
--P ubuntu-latest=catthehacker/ubuntu:act-latest
-
-# Verbose output for debugging
---verbose
